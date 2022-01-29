@@ -14,18 +14,9 @@ Neste projeto, foi verificado se sou capaz de:
 
 ## Sumário
 
-- [Boas vindas ao repositório do projeto de ES6 e Higher Order Functions!](#boas-vindas-ao-repositório-do-projeto-de-es6-e-higher-order-functions)
 - [Habilidades](#habilidades)
 - [Sumário](#sumário)
-- [Entregáveis](#entregáveis)
   - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
-  - [Desenvolvimento](#desenvolvimento)
-  - [Data de entrega](#data-de-entrega)
-- [Instruções para entregar seu projeto](#instruções-para-entregar-seu-projeto)
-  - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
-  - [Durante o desenvolvimento](#durante-o-desenvolvimento)
-  - [Dica para o desenvolvimento](#dica-para-o-desenvolvimento)
-  - [Depois de terminar o desenvolvimento (Opcional)](#depois-de-terminar-o-desenvolvimento-opcional)
 - [Requisitos do projeto](#requisitos-do-projeto)
   - [1. Implemente a função `getSpeciesByIds`](#1-implemente-a-função-getspeciesbyids)
   - [2. Implemente a função `getAnimalsOlderThan`](#2-implemente-a-função-getanimalsolderthan)
@@ -37,15 +28,8 @@ Neste projeto, foi verificado se sou capaz de:
   - [8. Implemente a função `getSchedule`](#8-implemente-a-função-getschedule)
   - [9. Implemente a função `getOldestFromFirstSpecies`](#9-implemente-a-função-getoldestfromfirstspecies)
   - [10. Implemente a função `getEmployeesCoverage`](#10-implemente-a-função-getemployeescoverage)
-- [Avisos Finais](#avisos-finais)
-  - [Revisando um Pull Request](#revisando-um-pull-request)
-  - [Avaliação do projeto](#avaliação-do-projeto)
-  - [Ordem dos requisitos no avaliador automático](#ordem-dos-requisitos-no-avaliador-automático)
 
 ---
-
-## Entregáveis
-
 ### O que deverá ser desenvolvido
 
 Implementei várias funções para atender aos requisitos propostos e garantir que todas as funções passem nos testes unitários.
